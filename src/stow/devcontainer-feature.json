@@ -1,0 +1,7 @@
+{
+    "name": "GNU stow",
+    "id": "stow",
+    "version": "1.0.0",
+    "description": "Installs GNU stow",
+    "options": {}
+}
